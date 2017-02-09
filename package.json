@@ -1,0 +1,27 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "just a twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "twitter"
+  ],
+  "author": "Reaper45",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reaper45/TwiterBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Reaper45/TwiterBot/issues"
+  },
+  "homepage": "https://github.com/Reaper45/TwiterBot#readme"
+}
